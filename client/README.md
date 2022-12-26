@@ -72,9 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 1. Documentation on how to run the code:
 
-The code should run like open the terminal and select the new terminal and run the command of "cd client". Then run the command of "npm start".
+The code should run like open the terminal and select the new terminal and run the command of
+ "cd client". Then run the command of "npm start".
 
-Take the another terminal of the sever and run the command of "cd server", then run the command of "npm start".
+Take the another terminal of the server and run the command of "cd server", then run the command of "npm start".
 
 
 2. Logical explanation of all your architectural choices in the project:
